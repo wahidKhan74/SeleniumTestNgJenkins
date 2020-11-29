@@ -13,7 +13,7 @@ public class ApplicationTest {
 	
 	SoftAssert soft = new SoftAssert();
 	final String siteUrl = "https://www.facebook.com/";
-	final String driverPath = "/home/wahidkhan74gmai/selenium-workspace/driver/chromedriver";
+	final String driverPath = "driver/chromedriver";
 	WebDriver driver ;
 	
   @Test
