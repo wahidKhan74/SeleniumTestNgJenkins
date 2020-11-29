@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Befor Test]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2661" started-at="2020-11-29T15:09:07 UTC" finished-at="2020-11-29T15:09:10 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2661" started-at="2020-11-29T15:09:07 UTC" finished-at="2020-11-29T15:09:10 UTC">
+      <class name="com.ecom.tests.SeleniumTestNgJenkins.ApplicationTest">
+        <test-method status="PASS" signature="beforTest()[pri:0, instance:com.ecom.tests.SeleniumTestNgJenkins.ApplicationTest@394e1a0f]" name="beforTest" is-config="true" duration-ms="10" started-at="2020-11-29T15:09:07 UTC" finished-at="2020-11-29T15:09:07 UTC">
+          <reporter-output>
+            <line>
+              <![CDATA[Befor Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:com.ecom.tests.SeleniumTestNgJenkins.ApplicationTest@394e1a0f]" name="testEasy" duration-ms="2553" started-at="2020-11-29T15:09:07 UTC" finished-at="2020-11-29T15:09:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ecom.tests.SeleniumTestNgJenkins.ApplicationTest@394e1a0f]" name="afterTest" is-config="true" duration-ms="69" started-at="2020-11-29T15:09:10 UTC" finished-at="2020-11-29T15:09:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ecom.tests.SeleniumTestNgJenkins.ApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
